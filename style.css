@@ -41,5 +41,22 @@
 .card {
     border: none;
     box-shadow: 5px 5px 10px lightgray;
-
+    border-radius: 10px;
+}
+.card-footer {
+    border-top: none;
+    background-color: rgb(255, 255, 255);
+}
+#subscribe {
+    height: 300px;
+}
+#subscribe h6 {
+    color: gray;
+}
+footer {
+    text-align: center;
+}
+footer p {
+    font-size: 12px;
+    font-family: serif;
 }
